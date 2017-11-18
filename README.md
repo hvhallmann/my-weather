@@ -2,7 +2,5 @@
 
 Created to start a simple PWA
 
-##### Documentation 
-
-under development.
-   
+You can open the app on:
+https://my-weather-23.firebaseapp.com/   
